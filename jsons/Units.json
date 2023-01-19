@@ -1,5 +1,29 @@
 [
   {
+    "name": "Pathfinder",
+    "unitType": "Scout",
+    "replaces": "Scout",
+    "uniqueTo": "Shoshone",
+    "movement": 3, // +1 movement
+    "strength": 8,
+    "cost": 35,
+    "obsoleteTech": "Iron Working", // New
+    "upgradesTo": "Elite Scout", // New
+    "uniques": [
+      // Removed "May upgrade to [Composite Bowman] through ruins-like effects",
+      "Normal vision when embarked", // New
+      "Defense bonus when embarked", // New
+      "Double movement in [Coast]" // New
+    ],
+    "promotions": [
+      "Amphibious", // New
+      "Ignore terrain cost",
+      "March", // New
+      "Scouting I" // New
+    ],
+    "attackSound": "nonmetalhit"
+  },
+  {
     "name": "Scout",
     "unitType": "Scout",
     "movement": 3, // +1 movement
