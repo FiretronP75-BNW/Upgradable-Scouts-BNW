@@ -1,4 +1,4 @@
-# Upgradable-Scouts
+# Upgradable-Scouts-BNW
 This mod provides an upgrade path for scouts that follows the upgrade path of warriors. It also gives the scout some extra scouting bonuses.
 At each upgrade, the strength and cost stay at 62.5% of the warrior counterpart (the ratio of scout/warrior).
 No new graphics so they look the same after each upgrade (although they get upgraded attack sounds).
